@@ -27,7 +27,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1890" height="1798" alt="image" src="https://github.com/user-attachments/assets/a0fc4fb0-ad6d-4451-82be-46d62a7a61f2" />
+
 </p>
 <p>
 Step 1 – Access osTicket and Prepare Departments
@@ -45,7 +46,8 @@ Delete the Maintenance Department (not archive).
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1890" height="1798" alt="image" src="https://github.com/user-attachments/assets/657e4497-7d6e-465a-8f04-742e4ec239ae" />
+
 </p>
 <p>
 Step 2 – Create & Work Tickets (Scenario 1)
@@ -71,7 +73,8 @@ As Agent Jane: Work the ticket to completion.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1890" height="1798" alt="image" src="https://github.com/user-attachments/assets/6e5ac92e-f3f0-4a16-ba94-ea70af488659" />
+
 </p>
 <p>
 Step 3 – Create & Work Tickets (Scenarios 2 & 3)
@@ -91,7 +94,7 @@ Work to completion as John.
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 Step 4 – Escalation & Permissions
@@ -111,7 +114,7 @@ Solve all tickets.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 Step 5 – Real-World Ticketing Practices
@@ -129,7 +132,7 @@ Always create tickets for all work done → helps with metrics and tracking.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 Step 6 – Finishing Up & Practice
